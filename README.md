@@ -1,7 +1,4 @@
 - 👋 Hi, I'm @Camillamonteiros
-- 👀 I'm interested in front end developer
-- 🌱 I am currently learning css and java-script
-- 💞️ I'm looking to collaborate on development projects in general and learn more about the area
 - 📫 How to reach me by email camillaaparecidams@gmail.com
 
 <!---
